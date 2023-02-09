@@ -1,6 +1,6 @@
 namespace Subsetting.Domain
 {    
-    public class Table
+    public class Table: Entity
     {
         public IEnumerable<Relationship> Relationships { get; }
 

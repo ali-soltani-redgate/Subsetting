@@ -1,6 +1,6 @@
 namespace Subsetting.Domain
 {    
-    public class Relationship
+    public class Relationship: Entity
     {
         private Table Parent { get; }
         private Table Child { get; }
