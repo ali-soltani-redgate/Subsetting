@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subsetting.Infrastructure",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subsetting.Application", "Subsetting.Application\Subsetting.Application.csproj", "{CD65F1F3-6862-4E62-A854-78A405FCC0B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subsetting.CommandLine", "Subsetting.CommandLine\Subsetting.CommandLine.csproj", "{CE524F5C-0EA6-4FC9-919E-8687F1742D0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{CD65F1F3-6862-4E62-A854-78A405FCC0B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD65F1F3-6862-4E62-A854-78A405FCC0B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD65F1F3-6862-4E62-A854-78A405FCC0B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE524F5C-0EA6-4FC9-919E-8687F1742D0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE524F5C-0EA6-4FC9-919E-8687F1742D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE524F5C-0EA6-4FC9-919E-8687F1742D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE524F5C-0EA6-4FC9-919E-8687F1742D0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
